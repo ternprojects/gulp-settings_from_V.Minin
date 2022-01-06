@@ -1,0 +1,8 @@
+#without "node_modules"
+node_modules/
+
+#ignore the project / dist build directory
+dist/
+
+#without package-lock.json-file
+package-lock.json
